@@ -79,7 +79,7 @@ Interactive combat director for MiniMax H3 across **Live-Action**, **2D Anime (S
 Copy the desired skill folders from `skills/v2/` or `skills/v3/` into your project or global skills directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minimax-h3-agent-skills.git
+git clone https://github.com/hiuuu/minimax-h3-agent-skills.git
 mkdir -p ~/.claude/skills
 cp -r minimax-h3-agent-skills/skills/v3/* ~/.claude/skills/
 ```
